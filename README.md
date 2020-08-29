@@ -14,7 +14,7 @@ COVID exacerbates an issue that existed long before this pandemic - the misunder
 Through a redesign of the data experience, data interfaces (DX/DI), Critical Care empowers healthcare workers with a platform for real-time monitoring, remote care and self-learning insights. Doctors can see realtime their patients and administer care remotely. In doing so, they map realtime-data against current medical records, training a platform for unprecedented data-driven health research
 
 
-Designed with Flutter and 💙BLoC
+Designed with Flutter and 💙BLoC | Finalist at HCL's Better Health Hacks
 
 See the video demo ! https://www.youtube.com/watch?v=M2Z5IG3n_vI
 
@@ -34,6 +34,6 @@ This platform can add additional devices securely using through the Hedera Hashg
 ![4](https://github.com/Team-Crushing-It/critical_care/blob/master/assets/3.gif)
 
 ## Why is this important?
-Just by using the app, Medical Professionals train the data. Through a redesign of the DX/DI, Critical Care maps real-time data against medical records and this self-training platform can fuel life-saving AI.
+Just by using the app, Medical Professionals train the data. Through a redesign of the DX/DI, Critical Care maps real-time data against medical records and this self-training platform can fuel life-saving AI. 
 
 ![5](https://github.com/Team-Crushing-It/critical_care/blob/master/assets/gifFast_random_app.gif)
